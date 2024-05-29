@@ -4,12 +4,12 @@ p {
     font-size: 24px;
 }
 #two {
-    color: blue;
+    color: rgba(18, 20, 163);
     font-size: 36px;
     
 }
 #four {
-    background-color: lightgreen;
+    background-color: rgb(18, 219, 72);
     font-size: 24px;
     font-weight: bold;
 }
